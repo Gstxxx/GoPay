@@ -2,6 +2,7 @@
 
 GoPay é um sistema de pagamento simplificado desenvolvido em Go, que permite transferências de dinheiro entre usuários e lojistas.
 
+
 ## Funcionalidades:
 
 - Registro de usuários
