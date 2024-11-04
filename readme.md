@@ -11,6 +11,7 @@ GoPay é um sistema de pagamento simplificado desenvolvido em Go, que permite tr
 
 ## Configuração do Banco de Dados:
 
+
 O GoPay requer um banco de dados MySQL para armazenar informações de usuários e transações. Você pode configurar um banco de dados MySQL localmente ou usar um contêiner Docker com uma imagem pré-configurada.
 
 
