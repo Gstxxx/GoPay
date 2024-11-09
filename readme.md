@@ -1,4 +1,4 @@
-# GoPay
+# GoPay (WIP)
 
 GoPay é um sistema de pagamento simplificado desenvolvido em Go, que permite transferências de dinheiro entre usuários e lojistas.
 
